@@ -1,0 +1,4 @@
+pubsub\Event.class
+pubsub\controller\PubSubController.class
+pubsub\entities.class
+pubsub\PubSubApplication.class
