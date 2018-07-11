@@ -6,7 +6,10 @@
 	<groupId>com.infinitum</groupId>
 	<artifactId>main</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+  <modules>
+    <module>gc-pub-sub-end-point</module>
+  </modules>
+  <packaging>pom</packaging>
 
 	<name>main</name>
 	<description>Demo project for Spring Boot</description>
