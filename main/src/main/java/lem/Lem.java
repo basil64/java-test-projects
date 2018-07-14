@@ -6,4 +6,5 @@ public static void main(String[] argv) {
    System.out.println("   Cyberiada");
    System.out.println("   Bajki robotow");
    System.out.println("   Eden");
+   System.out.println("   Swledztwo");
 }
